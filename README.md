@@ -3,4 +3,4 @@
 
 Master the Toolkit of AI and Machine Learning. Mathematics for Machine Learning and Data Science is a beginner-friendly Specialization where you’ll learn the fundamental mathematics toolkit of machine learning: calculus, linear algebra, statistics, and probability.  Instructed by Luis Serrano on Coursera.
 
-##Course 1. Linear Algebra for Machine Learning and Data Science
+## Course 1. Linear Algebra for Machine Learning and Data Science
